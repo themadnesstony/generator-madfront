@@ -37,11 +37,6 @@ yo madfront
 ## Gulp commands
 - `gulp `
 
-## License
-
-MIT © [themadnesstony](https://github.com/themadnesstony)
-
-
 [npm-image]: https://badge.fury.io/js/generator-madfront.svg
 [npm-url]: https://npmjs.org/package/generator-madfront
 [travis-image]: https://travis-ci.org//generator-madfront.svg?branch=master
